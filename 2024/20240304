@@ -1,0 +1,14 @@
+# Rapport de la semaine 10 (04/03-08/03)
+## Description des activités
+Refonte du Site Web de l'Entreprise TH42: Cette semaine j'ai poursuivi mon travail sur la recréation du site de TH42 avec la structure de BootStrap. J'ai également commencé à rendre les pages dynamiques avec
+du templating en utilisant la composante Blade du framework Laravel, puis j'ai commencé à faire de la localisation avec des fichiers de langue en utilisant Illuminate. Pour gérer les dépendances, j'ai utilisé 
+Composer.
+
+Batchfiles pour l'Installation d'Applications Portables: Comme la semaine précédente, j'ai réalisé quelques batchfiles, notamment pour installer l'environnement PHP sur l'ordinateur TH42.
+
+Fix d'un job Talend: 
+## Ressenti général 
+Une bonne semaine pour clôturer la période en alternance. Le front-end en web n'est pas vraiment ce que je préfère mais j'ai bien aimé avoir une certaine liberté dans le choix de l'implémentation des fonctions.
+
+## Difficultés rencontrées
+RAS.
