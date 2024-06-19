@@ -2,7 +2,7 @@ name: Send Weekly Report
 
 on:
   schedule:
-    - cron: '16 22 * * 3'  
+    - cron: '19 22 * * 3'  
 jobs:
   send_email:
     runs-on: ubuntu-latest
