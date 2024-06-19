@@ -20,7 +20,7 @@ jobs:
         python-version: '3.x'
 
     - name: Run email script
-      run: rapport_cra.py
+      run: python rapport_cra.py
       env:
         EMAIL_USER: ${{ secrets.EMAIL_USER }}
         EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
