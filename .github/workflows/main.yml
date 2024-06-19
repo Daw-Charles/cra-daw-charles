@@ -1,8 +1,11 @@
 name: Send Weekly Report
 
 on:
-  schedule:
-    - cron: '29 20 * * 3'  
+  # schedule:
+  #   - cron: '29 20 * * 3'  
+  push:
+    branches:
+      - main
 jobs:
   send_email:
     runs-on: ubuntu-latest
