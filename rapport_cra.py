@@ -44,7 +44,7 @@ if __name__ == "__main__":
     body = f"""
 Bonjour madame,
 
-Vous trouverez ci-joint le rapport hebdomadaire de mon alternance de la semaine {datetime.now().strftime("%W")}.
+Vous trouverez ci-joint le rapport hebdomadaire de mon alternance de la semaine.
 
 Cordialement,
 
